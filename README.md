@@ -13,6 +13,8 @@ Rede social de compartilhamento de links. Possui as funcionalidades básicas de 
 - Seguir usuários
 - Curtir posts
 
+<img width="1359" alt="image" src="https://github.com/lgmacedo/linkr-front/assets/83235488/3852f7ea-dc62-49f6-a24a-af624da9523f">
+
 Foi um projeto em equipe desafiador, mas o resultado foi bastante satisfatório! A equipe entregou uma aplicação funcional e de qualidade.
 
 [Disponível aqui](https://linkr-front-drab.vercel.app/)
